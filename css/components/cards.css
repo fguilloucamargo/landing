@@ -1,0 +1,19 @@
+.cards {
+  display: flex;
+  justify-content: space-around;
+  margin: 0px 200px;
+}
+
+.cards img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.cards .cards-shadow {
+    box-shadow: 5px 5px 10px #DDBEA8;
+}
+
+.cards h2 {
+  font-size: 20px;
+}

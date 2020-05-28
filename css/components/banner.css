@@ -1,0 +1,9 @@
+#banner {
+  background-image: url("../../images/carneiros.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0px;
+  font-size: 30px;
+  font-family: Roboto;
+  color: white;
+}

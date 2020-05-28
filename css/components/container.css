@@ -1,0 +1,10 @@
+.container {
+  text-align: center;
+  text-shadow: 5px 5px 10px #246A73;
+}
+
+.container h2 {
+  font-size: 35px;
+  color: #246A73;
+  text-shadow: 5px 5px 10px grey;
+}
